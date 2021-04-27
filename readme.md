@@ -19,6 +19,8 @@ _A Collection of Docker Containers for Security and Penetration Testing can be f
 
 `docker run --rm -it --pid host frapsoft/atop`
 
+:bulb: Use `--cap-add SYS_PACCT` to enable process accounting.
+
 ### Contact / Social Media
 
 _Get the latest News about Web Development, Open Source, Tooling, Server & Security_
